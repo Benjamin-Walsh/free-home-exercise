@@ -7,7 +7,27 @@ This website is titled 'Free Home Exercise'. The purpose of this website is to t
 ### Existing Features
 
 -__The Home Page__
-    -The home page will explain what bodyweight exercise is.
-    -The home page of the website will explain the benefits of bodyweight exercise.
+
+    -The home page explains what bodyweight exercise is, and the benefits of bodyweight exercise.
+
+    -This page serves as a useful resource for users, synopsizing the concept into simple points.  
 
 ### Future Features To Implement
+
+## Testing
+
+### Validator Testing
+
+-__HTML__
+
+-__CSS__
+
+### Unfixed Bugs
+
+## Deployment
+
+## Credits
+
+### Media
+
+### Content
