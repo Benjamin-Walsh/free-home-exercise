@@ -41,3 +41,5 @@ This website is titled 'Free Home Exercise'. The purpose of this website is to t
 -The icons used for the footer were obtained from the [Font Awesome website](https://fontawesome.com/?utm_source=v4_homepage&utm_medium=display&utm_campaign=fa5_released&utm_content=banner).
 
 -Advice on how to colour Font Awesome icons with css was taken from Stack Overflow. [Link to Stack Overflow page.](https://stackoverflow.com/questions/12272372/how-to-style-icon-color-size-and-shadow-of-fontawesome-icons)
+
+-Advice on how to change the size of Font Awesome icons was taken from Stack Overflow. [Link to Stack Overflow page.](https://stackoverflow.com/questions/40833480/how-to-make-font-awesome-icons-large#40833512)
