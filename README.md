@@ -47,3 +47,5 @@ This website is titled 'Free Home Exercise'. The purpose of this website is to t
 -Advice on how to change the size of Font Awesome icons was taken from Stack Overflow. [Link to Stack Overflow page.](https://stackoverflow.com/questions/40833480/how-to-make-font-awesome-icons-large#40833512)
 
 -Advice on how to display footer icons in a row was taken from Stack Overflow. [Link to Stack Overflow page.](https://stackoverflow.com/questions/827683/side-by-side-list-items-as-icons-within-a-div-css)
+
+-Advice on how to center footer icons was taken from mdn web docs. [Link to article.](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content)
