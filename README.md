@@ -32,6 +32,8 @@ This website is titled 'Free Home Exercise'. The purpose of this website is to t
 
 ### Content
 
+-The project was based broadly on the Love Running Walkthrough project. [Link to Love Running Project Github.](https://github.com/Code-Institute-Solutions/love-running-v3/tree/main/8.1-testing-and-validation)
+
 -Advice on creating a fixed footer was taken from Stack Overflow. [Link to Stack Overflow page.](https://stackoverflow.com/questions/18915550/fix-footer-to-bottom-of-page#18915680)
 
 -Idea for website colour scheme taken from [colormind.io](http://colormind.io/).
@@ -43,3 +45,5 @@ This website is titled 'Free Home Exercise'. The purpose of this website is to t
 -Advice on how to colour Font Awesome icons with css was taken from Stack Overflow. [Link to Stack Overflow page.](https://stackoverflow.com/questions/12272372/how-to-style-icon-color-size-and-shadow-of-fontawesome-icons)
 
 -Advice on how to change the size of Font Awesome icons was taken from Stack Overflow. [Link to Stack Overflow page.](https://stackoverflow.com/questions/40833480/how-to-make-font-awesome-icons-large#40833512)
+
+-Advice on how to display footer icons in a row was taken from Stack Overflow. [Link to Stack Overflow page.](https://stackoverflow.com/questions/827683/side-by-side-list-items-as-icons-within-a-div-css)
