@@ -28,6 +28,10 @@ This website is titled 'Free Home Exercise'. The purpose of this website is to t
 
 ## Credits
 
+    -Advice on creating a fixed footer taken from Stack Overflow. [Link to Stack Overflow page.](https://stackoverflow.com/questions/18915550/fix-footer-to-bottom-of-page#18915680) 
+
+    -Idea for website colour scheme taken from [colormind.io](http://colormind.io/).
+
 ### Media
 
 ### Content

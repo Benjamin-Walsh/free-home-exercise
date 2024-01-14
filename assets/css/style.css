@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    width: 100%;
+    background-color: #4E9CB0;
+}
+
+footer {
+    width: 100%;
+    background-color: #4E9CB0;
+    position: fixed;
+    bottom: 0px;
+}
