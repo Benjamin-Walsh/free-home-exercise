@@ -31,16 +31,20 @@ footer {
     /*Fixes footer to the bottom of the screen*/
     position: fixed;
     bottom: 0px;
-    min-height: 30px
 }
 
 #footer-icons {
     padding: 20px 0;
-    /*Puts the icons in the middle of the footer*/
-    text-align: center;
+
 }
 
-.icon-size {
+.icon {
     /*Alter the font-awesome icons' size*/
     font-size: 40px;
+}
+
+#footer-icons li {
+    /*Places icons in a row*/
+    float: left;
+    display: inline;
 }
