@@ -31,4 +31,11 @@ footer {
     /*Fixes footer to the bottom of the screen*/
     position: fixed;
     bottom: 0px;
+    min-height: 30px
+}
+
+#footer-icons {
+    padding: 20px 0;
+    /*Puts the icons in the middle of the footer*/
+    text-align: center;
 }
