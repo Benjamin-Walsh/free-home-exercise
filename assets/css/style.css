@@ -39,3 +39,8 @@ footer {
     /*Puts the icons in the middle of the footer*/
     text-align: center;
 }
+
+.icon-size {
+    /*Alter the font-awesome icons' size*/
+    font-size: 40px;
+}
