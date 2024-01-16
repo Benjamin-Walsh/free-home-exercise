@@ -54,13 +54,13 @@ ul {
     list-style: none;
 }
 
-li {
-    /*Changes color of menu list items*/
-    color: black;
+a {
+    /*Changes the color of links*/
+    color: black
 }
 
 .active-page {
-    /*Changes color of menu list item which corresponds to the active page*/
+    /*Changes the color of the link corresponding to the active page*/
     color: #474747;
 }
 
