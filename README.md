@@ -30,26 +30,28 @@ This website is titled 'Free Home Exercise'. The purpose of this website is to t
 
 ### Media
 
+    -The photo used for the hero image on the home page was taken by Andrea Piacquadio from pexels.com. Link to image here: <https://www.pexels.com/photo/man-in-gray-jacket-doing-push-ups-during-sunrise-3775164/>
+
 ### Content
 
-    -The project was based broadly on the Love Running Walkthrough project. ![Link to Love Running Project Github.](https://github.com/Code-Institute-Solutions/love-running-v3/tree/main/8.1-testing-and-validation)
+    -The project was based broadly on the Love Running Walkthrough project. [Link to Love Running Project Github.](https://github.com/Code-Institute-Solutions/love-running-v3/tree/main/8.1-testing-and-validation)
 
-    -Advice on creating a fixed footer was taken from this ![Stack Overflow article.](https://stackoverflow.com/questions/18915550/fix-footer-to-bottom-of-page#18915680)
+    -Advice on creating a fixed footer was taken from this [Stack Overflow article.](https://stackoverflow.com/questions/18915550/fix-footer-to-bottom-of-page#18915680)
 
-    -Idea for website colour scheme taken from ![colormind.io](http://colormind.io/).
+    -Idea for website colour scheme taken from [colormind.io](http://colormind.io/).
 
-    -Montserrat font from ![Google Fonts](https://fonts.google.com/selection/embed).
+    -Montserrat font from [Google Fonts](https://fonts.google.com/selection/embed).
 
-    -The icons used for the footer were obtained from the ![Font Awesome website](https://fontawesome.com/?utm_source=v4_homepage&utm_medium=display&utm_campaign=fa5_released&utm_content=banner).
+    -The icons used for the footer were obtained from the [Font Awesome website](https://fontawesome.com/?utm_source=v4_homepage&utm_medium=display&utm_campaign=fa5_released&utm_content=banner).
 
-    -Advice on how to colour Font Awesome icons with css was taken from this ![Stack Overflow article.](https://stackoverflow.com/questions/12272372/how-to-style-icon-color-size-and-shadow-of-fontawesome-icons)
+    -Advice on how to colour Font Awesome icons with css was taken from this [Stack Overflow article.](https://stackoverflow.com/questions/12272372/how-to-style-icon-color-size-and-shadow-of-fontawesome-icons)
 
-    -Advice on how to change the size of Font Awesome icons was taken from this ![Stack Overflow article.](https://stackoverflow.com/questions/40833480/how-to-make-font-awesome-icons-large#40833512)
+    -Advice on how to change the size of Font Awesome icons was taken from this [Stack Overflow article.](https://stackoverflow.com/questions/40833480/how-to-make-font-awesome-icons-large#40833512)
 
-    -Advice on how to display footer icons in a row was taken from this ![Stack Overflow article.](https://stackoverflow.com/questions/827683/side-by-side-list-items-as-icons-within-a-div-css)
+    -Advice on how to display footer icons in a row was taken from this [Stack Overflow article.](https://stackoverflow.com/questions/827683/side-by-side-list-items-as-icons-within-a-div-css)
 
-    -Advice on how to center footer icons was taken from mdn web docs. ![Link to article.](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content)
+    -Advice on how to center footer icons was taken from mdn web docs. [Link to article.](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content)
 
-    -Advice on how to position elements side by side was taken from this ![Stack Overflow article.](https://stackoverflow.com/questions/21672346/css-positioning-two-elements-next-to-each-other#21672491)
+    -Advice on how to position elements side by side was taken from this [Stack Overflow article.](https://stackoverflow.com/questions/21672346/css-positioning-two-elements-next-to-each-other#21672491)
 
-    -Advice on how to use hover pseudo-class was taken from mdn web docs. ![Link to article.](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover)
+    -Advice on how to use hover pseudo-class was taken from mdn web docs. [Link to article.](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover)
