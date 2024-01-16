@@ -26,6 +26,11 @@ h1 {
     display: none;
 }
 
+.header-positioning {
+    /*Keeps header content side by side*/
+    display: inline-block;
+}
+
 main {
     background-color: #F8F8F3;
 }
