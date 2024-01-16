@@ -105,6 +105,16 @@ footer {
 
 }
 
+.footer-list-item {
+    /*Maintain space between icons when the screen size getss smaller*/
+    padding-right: 5px;
+}
+
+/*Styles the notice in the footer about the educational purpose of the site*/
+#footer-message {
+    padding-top: 8px;
+}
+
 .icon {
     /*Alter the font-awesome icons' size*/
     font-size: 40px;
