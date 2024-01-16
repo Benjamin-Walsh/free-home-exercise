@@ -51,3 +51,5 @@ This website is titled 'Free Home Exercise'. The purpose of this website is to t
     -Advice on how to center footer icons was taken from mdn web docs. [Link to article.](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content)
 
     -Advice on how to position elements side by side was taken from this [Stack Overflow article.](https://stackoverflow.com/questions/21672346/css-positioning-two-elements-next-to-each-other#21672491)
+
+    -Advice on how to use hover pseudo-class was taken from mdn web docs. [Link to article.](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover)

@@ -24,11 +24,6 @@ h1 {
     padding: 10px;
 }
 
-/*toggle-able nav*/
-#toggle-nav {
-    display: none;
-}
-
 #menu-icon {
     padding-right: 15px;
     padding-top: 15px;
@@ -42,6 +37,40 @@ h1 {
 .burger-icon:hover {
     /*Changes menu icon size*/
     color: #F8F8F3;
+}
+
+nav {
+    padding: 10px;
+    position: absolute;
+    background-color: #4EA1C3;
+    right: 0;
+    top: 55px;
+    z-index: 10;
+    display: none;
+}
+
+ul {
+    /*Removes bllet points from menu items*/
+    list-style: none;
+}
+
+li {
+    /*Changes color of menu list items*/
+    color: black;
+}
+
+.active-page {
+    /*Changes color of menu list item which corresponds to the active page*/
+    color: #474747;
+}
+
+#toggle-menu {
+    display: none;
+}
+
+/*Shows menu when icon is clicked*/
+#toggle-menu:checked~nav {
+    display: block;
 }
 
 .header-positioning {
