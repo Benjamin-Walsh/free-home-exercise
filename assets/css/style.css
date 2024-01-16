@@ -15,6 +15,9 @@ body {
 header {
     width: 100%;
     background-color: #4EA1C3;
+    /*Puts space between header's child elements*/
+    display: flex;
+    justify-content: space-between;
 }
 
 h1 {
@@ -24,6 +27,21 @@ h1 {
 /*toggle-able nav*/
 #toggle-nav {
     display: none;
+}
+
+#menu-icon {
+    padding-right: 15px;
+    padding-top: 15px;
+}
+
+.burger-icon {
+    /*Changes menu icon size*/
+    font-size: 30px
+}
+
+.burger-icon:hover {
+    /*Changes menu icon size*/
+    color: #F8F8F3;
 }
 
 .header-positioning {
