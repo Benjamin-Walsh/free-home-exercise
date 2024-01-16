@@ -21,6 +21,11 @@ h1 {
     padding: 10px;
 }
 
+/*toggle-able nav*/
+#toggle-nav {
+    display: none;
+}
+
 main {
     background-color: #F8F8F3;
 }
