@@ -26,6 +26,24 @@ This website is titled 'Free Home Exercise'. The purpose of this website is to t
 
 ## Deployment
 
+I deployed my website to GitHub Pages through the following procedure.
+
+    -I went to the settings tab in my project repository on GitHub.
+    
+    -In the list on the left hand side of the settings page, 
+     under the 'Code and automation' heading, I clicked on the 'Pages'
+     section.
+     
+    -In the Github Pages section, under the 'Build and deployment' heading,
+     I clicked on the branch dropdown menu.
+     
+    -I selected the main project branch and root folder, and then saved
+     my choices.
+     
+    -Upon saving, a deployment was created which can be accessed by
+     going to the code tab of the github repository and navigating to 
+     the deployments section in the list on the right.
+
 ## Credits
 
 ### Media
