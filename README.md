@@ -30,7 +30,7 @@ This website is titled 'Free Home Exercise'. The purpose of this website is to t
 
 ### Media
 
--The photo used for the hero image on the home page was taken by Andrea Piacquadio from pexels.com. Link to image here: <https://www.pexels.com/photo/man-in-gray-jacket-doing-push-ups-during-sunrise-3775164/>
+-The photo used for the hero image on the home page was taken by Andrea Piacquadio from pexels.com. [Link to image here](https://www.pexels.com/photo/man-in-gray-jacket-doing-push-ups-during-sunrise-3775164/)
 
 ### Content
 
