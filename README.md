@@ -30,7 +30,7 @@ This website is titled 'Free Home Exercise'. The purpose of this website is to t
 
 ### Media
 
--The photo used for the hero image on the home page was taken by Andrea Piacquadio from pexels.com. [Link to image here](https://www.pexels.com/photo/man-in-gray-jacket-doing-push-ups-during-sunrise-3775164/)
+-The photo used for the hero image on the home page was taken by Andrea Piacquadio from pexels.com. [Link to image here.](https://www.pexels.com/photo/man-in-gray-jacket-doing-push-ups-during-sunrise-3775164/)
 
 ### Content
 
@@ -38,11 +38,11 @@ This website is titled 'Free Home Exercise'. The purpose of this website is to t
 
 -Advice on creating a fixed footer was taken from this [Stack Overflow article.](https://stackoverflow.com/questions/18915550/fix-footer-to-bottom-of-page#18915680)
 
--Idea for website colour scheme taken from [colormind.io](http://colormind.io/).
+-Idea for website colour scheme taken from [colormind.io.](http://colormind.io/)
 
--Montserrat font from [Google Fonts](https://fonts.google.com/selection/embed).
+-Montserrat font from [Google Fonts.](https://fonts.google.com/selection/embed)
 
--The icons used for the footer were obtained from the [Font Awesome website](https://fontawesome.com/?utm_source=v4_homepage&utm_medium=display&utm_campaign=fa5_released&utm_content=banner).
+-The icons used for the footer were obtained from the [Font Awesome website.](https://fontawesome.com/?utm_source=v4_homepage&utm_medium=display&utm_campaign=fa5_released&utm_content=banner)
 
 -Advice on how to colour Font Awesome icons with css was taken from this [Stack Overflow article.](https://stackoverflow.com/questions/12272372/how-to-style-icon-color-size-and-shadow-of-fontawesome-icons)
 
