@@ -87,6 +87,11 @@ main {
     background-color: #F8F8F3;
 }
 
+article {
+    /*Sets width of article containers so they do not span the entire width of the page*/
+    width: 40%;
+}
+
 #hero-image {
     /*Hero image on home page is prevented from duplicating; it is centered and made to fit its container*/
     background: url("../images/pushup.webp") no-repeat center center/cover;
