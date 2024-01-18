@@ -50,6 +50,8 @@ I deployed my website to GitHub Pages through the following procedure.
 
 -The photo used for the hero image on the home page was taken by Andrea Piacquadio from pexels.com. [Link to image here.](https://www.pexels.com/photo/man-in-gray-jacket-doing-push-ups-during-sunrise-3775164/)
 
+-I used an article from Harvard Health Publishing for ideas for my 'Benefits of bodyweight exercise' section on my home page. You can check out the article with [this link.](https://www.health.harvard.edu/exercise-and-fitness/the-advantages-of-body-weight-exercise)
+
 ### Content
 
 -The project was based broadly on the Love Running Walkthrough project. [Link to Love Running Project Github.](https://github.com/Code-Institute-Solutions/love-running-v3/tree/main/8.1-testing-and-validation)
