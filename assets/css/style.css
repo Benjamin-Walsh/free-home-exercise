@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
+html {
+    /*Allows vertical scrolling on the website where off-screen content would otherwise be inaccessible*/
+    overflow: scroll;
+}
+
 /*Asterisk overrules default styling*/
 * {
     padding: 0;
