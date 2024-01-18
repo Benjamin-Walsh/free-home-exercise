@@ -76,3 +76,6 @@ I deployed my website to GitHub Pages through the following procedure.
 
 -Advice on how to use hover pseudo-class was taken from mdn web docs. [Link to article.](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover)
 
+-Advice on how to adjust scrollbar settings taken from a Stack Overflow article, [linked here.](https://stackoverflow.com/questions/4405954/how-do-i-remove-the-horizontal-scrollbar-in-a-div#4405976)
+
+-Advice on how to prevent footer from hiding content at the bottom of the page taken from [this Stack Overflow article.](https://stackoverflow.com/questions/13881548/sticky-footer-hiding-content)
