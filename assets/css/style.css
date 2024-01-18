@@ -3,6 +3,7 @@
 html {
     /*Allows vertical scrolling on the website where off-screen content would otherwise be inaccessible*/
     overflow-y: scroll;
+    overflow-x: hidden;
 }
 
 /*Asterisk overrules default styling*/
