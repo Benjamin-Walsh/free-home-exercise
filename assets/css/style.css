@@ -102,11 +102,13 @@ article {
 /*Styling for the section which explains what bodyweight exercise is*/
 #what {
     margin: 15px;
+    padding: 20px;
 }
 
 /*Styling for the section which explains what the benefits of bodyweight exercise are*/
 #why {
     margin: 15px;
+    padding: 20px;
 }
 
 footer {
