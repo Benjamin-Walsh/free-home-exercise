@@ -69,6 +69,8 @@ The exercise guide page had no errors. For the mailing list page I was warned th
 
 -__CSS__
 
+I tested my CSS file with the jigsaw w3 css validator and got no errors.
+
 ### Unfixed Bugs
 
 ## Deployment
