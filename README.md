@@ -54,6 +54,10 @@ This website is titled 'Free Home Exercise'. The purpose of this website is to t
 
 ### Future Features To Implement
 
+    -I would like to implement media queries for further responsive design.
+    -I would like to make the nav icon switch to full words when there is enough space on the screen.
+    -I would like to add more exercises to the Exercise guide page.
+
 ## Testing
 
 ### Validator Testing
