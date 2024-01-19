@@ -60,6 +60,11 @@ This website is titled 'Free Home Exercise'. The purpose of this website is to t
 
 ## Testing
 
+### Accessibility 
+
+To check my site's accessibility, I used accessibilitychecker.org. I got a score of 85 with no critical issues.
+[accessibilitychecker_result](assets/images/access.png)
+
 ### Validator Testing
 
 -__HTML__
