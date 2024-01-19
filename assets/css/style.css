@@ -118,6 +118,10 @@ article {
     width: 560px;
 }
 
+#form-style {
+    padding: 30px;
+}
+
 footer {
     width: 100%;
     background-color: #4EA1C3;
