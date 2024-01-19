@@ -56,6 +56,8 @@ I deployed my website to GitHub Pages through the following procedure.
 
 -I converted images into webp files for use on the website using [Convertio.co](https://convertio.co/) and [Freeconvert.com](https://www.freeconvert.com/jpg-to-webp).
 
+-The image of a man doing a pull-up which I used on the mailing list page was taken by Cottonbro Studio and was obtained on Pexels.com. [Here is the link](https://www.pexels.com/photo/man-in-gray-tank-top-holding-onto-gymnastic-rings-7672110/) to the image on Pexels.com. 
+
 ### Content
 
 -The project was based broadly on the Love Running Walkthrough project. [Link to Love Running Project Github.](https://github.com/Code-Institute-Solutions/love-running-v3/tree/main/8.1-testing-and-validation)
