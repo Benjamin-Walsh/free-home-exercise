@@ -87,3 +87,5 @@ I deployed my website to GitHub Pages through the following procedure.
 -Advice on how to adjust scrollbar settings taken from a Stack Overflow article, [linked here.](https://stackoverflow.com/questions/4405954/how-do-i-remove-the-horizontal-scrollbar-in-a-div#4405976)
 
 -Advice on how to prevent footer from hiding content at the bottom of the page taken from [this Stack Overflow article.](https://stackoverflow.com/questions/13881548/sticky-footer-hiding-content)
+
+-I referred to a W3Schools article for a refresher on form elements. [Here is the link](https://www.w3schools.com/html/html_form_elements.asp) to the article. 
