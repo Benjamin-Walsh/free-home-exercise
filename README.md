@@ -54,6 +54,8 @@ I deployed my website to GitHub Pages through the following procedure.
 
 -The video I embedded on my home page was made by the PictureFit YouTube channel. [Link to YouTube video here.](https://youtu.be/xJBqbv8GRZ4)
 
+-I converted images into webp files for use on the website using [Convertio.co](https://convertio.co/) and [Freeconvert.com](https://www.freeconvert.com/jpg-to-webp).
+
 ### Content
 
 -The project was based broadly on the Love Running Walkthrough project. [Link to Love Running Project Github.](https://github.com/Code-Institute-Solutions/love-running-v3/tree/main/8.1-testing-and-validation)
