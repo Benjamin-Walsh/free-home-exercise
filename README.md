@@ -73,6 +73,8 @@ I tested my CSS file with the jigsaw w3 css validator and got no errors.
 
 ### Unfixed Bugs
 
+In my index file, I got a warning about a lack of a heading on a section. 
+
 ## Deployment
 
 I deployed my website to GitHub Pages through the following procedure.
