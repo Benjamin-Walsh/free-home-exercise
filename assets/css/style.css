@@ -89,8 +89,10 @@ main {
 }
 
 article {
-    /*Sets width of article containers so they do not span the entire width of the page*/
-    width: 40%;
+    /*Sets width of article containers so they do not span the entire width of the page
+    and are responsive to window size*/
+    max-width: 400px;
+    min-width: 200px;
 }
 
 #hero-image {
@@ -131,6 +133,7 @@ article {
 #guide {
     padding: 35px;
     max-width: 300px;
+    min-width: 200px;
 }
     
 footer {
