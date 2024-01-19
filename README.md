@@ -89,3 +89,5 @@ I deployed my website to GitHub Pages through the following procedure.
 -Advice on how to prevent footer from hiding content at the bottom of the page taken from [this Stack Overflow article.](https://stackoverflow.com/questions/13881548/sticky-footer-hiding-content)
 
 -I referred to a W3Schools article for a refresher on form elements. [Here is the link](https://www.w3schools.com/html/html_form_elements.asp) to the article. 
+
+-I used Code Institute's form dump url which we used in the Coder's Coffehouse walkthrough project to receive form data from my site. [Here is the link to the form dump page.](https://formdump.codeinstitute.net)
