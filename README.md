@@ -64,6 +64,8 @@ I deployed my website to GitHub Pages through the following procedure.
 
 -The icons used for the footer were obtained from the [Font Awesome website.](https://fontawesome.com/?utm_source=v4_homepage&utm_medium=display&utm_campaign=fa5_released&utm_content=banner)
 
+-The Font Awesome script at the end of the index file was provided by Font Awesome as part of their kit. [Font Awesome kit page link here.](https://fontawesome.com/kits/)
+
 -Advice on how to colour Font Awesome icons with css was taken from this [Stack Overflow article.](https://stackoverflow.com/questions/12272372/how-to-style-icon-color-size-and-shadow-of-fontawesome-icons)
 
 -Advice on how to change the size of Font Awesome icons was taken from this [Stack Overflow article.](https://stackoverflow.com/questions/40833480/how-to-make-font-awesome-icons-large#40833512)
