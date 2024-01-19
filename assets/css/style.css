@@ -122,6 +122,12 @@ article {
     padding: 30px;
 }
 
+/*Style fieldset element*/
+#info-box {
+    padding: 20px;
+    max-width: 300px
+}
+
 footer {
     width: 100%;
     background-color: #4EA1C3;
