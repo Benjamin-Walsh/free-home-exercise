@@ -8,9 +8,26 @@ This website is titled 'Free Home Exercise'. The purpose of this website is to t
 
 -__The Home Page__
 
-    -The home page explains what bodyweight exercise is, and the benefits of bodyweight exercise.
+    -The home page explains what bodyweight exercise is, and the benefits of bodyweight exercise,
+    through short paragraphs.
+    -The page serves as a useful resource for users, synopsizing the concept of bodyweight
+    exercise into simple points.  
+    -The page features a hero image depicting someone exercising, which is meant to signal the theme 
+    of the website and inspires viewers.
+    -Icons displayed next to section headings help communicate the purpose of each section. 
+    -The home page contains an embedded YouTube video which helps to explain what bodyweight
+    exercise is and what the benefits are.
 
-    -This page serves as a useful resource for users, synopsizing the concept into simple points.  
+-__The Header__
+
+    -The header is common to all three pages. It helps provide a consistent layout which reduces visual confusion.
+    -The header has a menu icon on the right which displays a navigation menu when clicked.
+    -When hovered over, the menu icon turns white to help communicate that it is a button.
+    -The currently active page is coloured differently in the nav menu to help orient the user on the site.
+
+-__The Footer__
+
+    -
 
 ### Future Features To Implement
 
