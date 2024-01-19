@@ -24,10 +24,33 @@ This website is titled 'Free Home Exercise'. The purpose of this website is to t
     -The header has a menu icon on the right which displays a navigation menu when clicked.
     -When hovered over, the menu icon turns white to help communicate that it is a button.
     -The currently active page is coloured differently in the nav menu to help orient the user on the site.
+    -The header is coloured differently to the main section of the page to help users find their way easily around the website
+    by following the design convention of distinct headers.
 
 -__The Footer__
 
-    -
+    -The footer contains icons of social media logos, and clicking on them opens a new tab with the corresponding social media.
+    -If there were social media accounts created for this project, these links would help tie together my online presence
+    and help users learn more and stay up-to-date on what I'm doing. 
+    -There is a message in the footer informing users that the website is purely for educational purposes so that someone who
+    might find the site would not be confused as to why it does not behave quite the same as professional sites.
+    -The footer is coloured differently to the main section of the page to help direct users' attention in a conventional way 
+    which helps users find their way easily around the website.
+
+-__Exercise Guide Page__
+
+    -The main content heading effectively explains the purpose of the page.
+    -This page contains a simple guide for four different exercises.
+    -Each exercise section explains what muscles are involved in each to help users find what they need.
+    -Each section also explains the proper technique for doing each exercise so that users can get started 
+    straight away without the need for further research.
+
+-__Mailing-list Page__
+
+    -This page contains a form for users to input some basic information to sign up for a (hypothetical) mailing-list.
+    -The layout is simple and uncluttered so as not to put people off from engaging. 
+    -There is a disclaimer that the form is not connected to an actual mailing list just in case.
+    -There is an image of a man performing an impressive exercise to motivate users to get involved.
 
 ### Future Features To Implement
 
