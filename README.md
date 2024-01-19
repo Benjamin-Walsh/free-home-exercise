@@ -64,6 +64,9 @@ This website is titled 'Free Home Exercise'. The purpose of this website is to t
 
 -__HTML__
 
+I used the W3 html validator. For the index, I got an obselete frameborder notice for iframe and warning about br elements in a list, so i fixed the errors.
+The exercise guide page had no errors. For the mailing list page I was warned that auto was a bad height value for an img element, so I changed it.
+
 -__CSS__
 
 ### Unfixed Bugs
