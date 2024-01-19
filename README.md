@@ -58,6 +58,8 @@ I deployed my website to GitHub Pages through the following procedure.
 
 -The image of a man doing a pull-up which I used on the mailing list page was taken by Cottonbro Studio and was obtained on Pexels.com. [Here is the link](https://www.pexels.com/photo/man-in-gray-tank-top-holding-onto-gymnastic-rings-7672110/) to the image on Pexels.com. 
 
+-I used 4 articles from verywellfit.com as references for my exercise guide page: [1. Push-up Article](https://www.verywellfit.com/the-push-up-exercise-3120574) [2. Squat Article](https://www.verywellfit.com/safe-squat-technique-3119136) [3. Sit-up Article](https://www.verywellfit.com/how-to-do-sit-ups-techniques-benefits-variations-5075764) [4. Plank Article](https://www.verywellfit.com/the-plank-exercise-3120068)
+
 ### Content
 
 -The project was based broadly on the Love Running Walkthrough project. [Link to Love Running Project Github.](https://github.com/Code-Institute-Solutions/love-running-v3/tree/main/8.1-testing-and-validation)
